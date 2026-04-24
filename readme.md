@@ -117,8 +117,7 @@ snr_control(attributes=attributes, target=30)
 
 ### 3. **Voice Conversion**
 ```python
-voice_conversion(source_path="speaker_A.wav", 
-                 target_path="speaker_B.wav")
+voice_conversion(source_path="speaker_A.wav", target_path="speaker_B.wav")
 ```
 
 **What it does:**
